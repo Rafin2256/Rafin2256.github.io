@@ -14,15 +14,28 @@ I'm a Software Development student with a passion for building clean, scalable, 
 
 ## 🚀 Projects
 
-### 🏥 Secure Cloud Healthcare System  
-Built a cloud-based platform for storing and managing sensitive healthcare data securely.  
-**Tools:** AWS, Kubernetes, Terraform  
-[GitHub Repo](https://github.com/Rafin2256/project1)
+## 🚀 Projects
 
-### 📊 Real-Time IoT Dashboard  
-Designed a Kafka-based dashboard that streams real-time sensor data from IoT devices.  
-**Tools:** Apache Kafka, Golang, Docker  
-[GitHub Repo](https://github.com/Rafin2256/project2)
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<!-- Project 1 -->
+<div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
+  <h3>🏥 Secure Cloud Healthcare System</h3>
+  <p>A secure cloud-based platform for healthcare data storage using AWS and Kubernetes.</p>
+  <p><strong>Tech Used:</strong> AWS, Kubernetes, Terraform</p>
+  <a href="https://github.com/Rafin2256/project1" target="_blank">🔗 View on GitHub</a>
+</div>
+
+<!-- Project 2 -->
+<div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
+  <h3>📊 IoT Data Dashboard</h3>
+  <p>Real-time data dashboard streaming sensor data using Kafka and Golang.</p>
+  <p><strong>Tech Used:</strong> Apache Kafka, Golang, Docker</p>
+  <a href="https://github.com/Rafin2256/project2" target="_blank">🔗 View on GitHub</a>
+</div>
+
+</div>
+
 
 ---
 
